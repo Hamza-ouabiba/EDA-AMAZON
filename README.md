@@ -5,9 +5,8 @@
 <h2>Contributors</h2>
 <p>A special thanks to the following contributors for their valuable contributions to this project:</p>
 <ul>
-  <li>Mohamed El Mahdy</li>
-  <li>Baakrim Oualid</li>
-  <li>Habbach Hamza</li>
+  <li>Mohamed El Mahdy Baakrim</li>
+  <li>Habbach Oualid</li>
   <li>Ouabiba Hamza</li>
   <li>Ahmed Mesoudi</li>
 </ul>
